@@ -1,0 +1,29 @@
+
+##Privacy Policy
+This privacy policy describes how u-hertz (Oleg Kokhanchyk) (“u-hertz”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
+
+Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
+
+We use your Personal Information only to provide a personalized user experience. By enabling the skill, you agree to use of information in accordance with this policy.
+
+General
+When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer.
+
+Data
+The amount and type of information that U-hertz gathers depends on the nature of the interaction. 
+If you using skill from device that support geo location, we will use this information to show you the nearest charging station that you can drive to. 
+if you using skill from device that not support geo location skill will use you short Address information (post code) to get nearest charging station to post code. 
+When you specify exacly city or address skill will not use you geo location or address data. 
+Skill will only use you geo location and address dat only if you alloud it in permission section.
+
+We never share personal, any data with our skills.
+
+To improve our services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
+
+Log Data
+
+To be able to investigate issues with the skill, U-hertz stores logs with Amazon CloudWatch. These logs may included personally-identifying information as well, which are not exposed, sold or used besides the tracking of issues.
+
+
+Changes
+Our skills or parts of it may change or be updated at any time. Further, this Privacy Policy might change. You can find a link to this policy on the description page of the skill in the Alexa App or in the Alexa Store. Your continued use of our skill after changes of the Privacy Policy or the skill itself will be seen as your acceptance of both.
